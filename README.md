@@ -7,3 +7,10 @@ Recently, our team placed 85th among 370+ global participants in the OpenADMET p
 Coming from an applied mathematics background, stepping into AI-driven drug discovery pushed me to think deeply about representation design under real-world computational constraints. Learning organic chemistry fundamentals and SMILES representations while experimenting with fingerprint compression, VAE, late fusion, and Mixture of Experts broadened my perspective on how modeling choices shape performance in biomedical AI. 
 
 
+
+
+
+### Our Article Link:  
+Feel free to check out: https://chemrxiv.org/doi/10.26434/chemrxiv.15001004 
+
+
