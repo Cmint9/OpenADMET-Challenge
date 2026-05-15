@@ -1,5 +1,16 @@
  # 🧪 OpenADMET — AI-Powered ADMET & Drug Safety Prediction
 AI-driven ADMET, pharmacokinetics, and toxicity prediction for early drug discovery
+
+
+## 🔗 Quick Links
+🌐 Website: https://yourcompany.com/openadmet
+💼 LinkedIn: https://linkedin.com/company/yourcompany
+📄 Paper: https://arxiv.org/xxx
+📝 Blog: https://yourcompany.com/blog/openadmet
+🧪 Demo: https://demo.openadmet.ai
+
+
+
 ## Introduction to OpenADMET
 OpenADMET is a collaborative, open-science initiative designed to improve drug discovery by tackling the unpredictable pharmacokinetic and toxicity profiles of small molecules. Backed by organizations like the Open Molecular Software Foundation, it provides public datasets, machine learning models, and regular blind challenges to standardize and advance ADMET modeling.
 ### QuantaBricks
