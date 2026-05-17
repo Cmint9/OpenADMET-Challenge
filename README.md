@@ -5,7 +5,7 @@ AI-driven ADMET, pharmacokinetics, and toxicity prediction for early drug discov
 ## 🔗 Quick Links
 #### 🌐 Website: https://yourcompany.com/openadmet
 #### 💼 LinkedIn: https://linkedin.com/company/yourcompany
-#### 📄 Paper: [https://chemrxiv.org/xxx](https://chemrxiv.org/doi/10.26434/chemrxiv.15001004 )
+#### 📄 Paper: https://chemrxiv.org/doi/10.26434/chemrxiv.15001004 
 #### 📝 Blog: https://yourcompany.com/blog/openadmet
 
 
