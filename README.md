@@ -42,6 +42,9 @@ Existing tools are either closed-source and expensive or open-source but low in 
 
 ##
 
+#### How OpenADMET addresses these challenges: 
+A unified framework integrating multi-modal molecular representation, multi-task collaborative training, attention-based interpretability, and lightweight deployment, delivering robust, reliable, and production-ready ADMET predictions.
+
  
 ### QuantaBricks 
 https://www.quanta-bricks.com/
