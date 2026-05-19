@@ -43,7 +43,8 @@ Existing tools are either closed-source and expensive or open-source but low in 
 ##
 
  
-### QuantaBricks https://www.quanta-bricks.com/
+### QuantaBricks 
+https://www.quanta-bricks.com/
 
 Recently, our team placed 85th among 370+ global participants in the OpenADMET prediction challenge. The project was designed as a stress test for extreme model compression — operating under strict parameter limits, single-core CPU execution, and without quantum chemical descriptors.
 
