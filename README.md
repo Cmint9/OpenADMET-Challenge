@@ -40,6 +40,8 @@ Pure deep learning approaches lack transparent reasoning, making results hard to
 #### 5.High deployment barriers for real-world use.
 Existing tools are either closed-source and expensive or open-source but low in accuracy, rarely balancing performance and practicality.
 
+##
+
  
 ### QuantaBricks https://www.quanta-bricks.com/
 
