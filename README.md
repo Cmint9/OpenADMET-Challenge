@@ -7,7 +7,7 @@ AI-driven ADMET, pharmacokinetics, and toxicity prediction for early drug discov
 #### 🌐 Website: https://yourcompany.com/openadmet
 #### 💼 LinkedIn: https://www.quanta-bricks.com/
 #### 📄 Paper: https://chemrxiv.org/doi/10.26434/chemrxiv.15001004 
-#### 📝 Blog: https://yourcompany.com/blog/openadmet
+#### 📝 Blog: 
 
 
 
