@@ -1,6 +1,9 @@
  # 🧪 OpenADMET 
  ### — AI-Powered ADMET & Drug Safety Prediction
 AI-driven ADMET, pharmacokinetics, and toxicity prediction for early drug discovery
+Our Team: Xichen(Mint) Zhang, Yizhou Ma, Xin Chen 
+
+##
 
 
 ## 🔗 Quick Links
