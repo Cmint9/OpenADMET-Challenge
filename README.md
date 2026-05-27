@@ -61,6 +61,10 @@ Coming from an applied mathematics background, stepping into AI-driven drug disc
 ### Faliure Models
 ### Limitations
 
+### Assumption
+
+Something is still updating...
+
 
 
 
