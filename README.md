@@ -62,8 +62,11 @@ Coming from an applied mathematics background, stepping into AI-driven drug disc
 ### Limitations
 
 ### Assumption
+1， What kind of questions will we ask? 
+2, which dataset should we use? 
 
 Something is still updating...
+
 
 
 
