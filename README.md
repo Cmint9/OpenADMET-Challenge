@@ -62,8 +62,15 @@ Coming from an applied mathematics background, stepping into AI-driven drug disc
 ### Limitations
 
 ### Assumption
-1， What kind of questions will we ask? 
-2, which dataset should we use? 
+SMILES-based molecular representation is sufficient for predicting ADMET properties. 3D conformation is not required for most in silico ADMET tasks.
+
+Public and curated datasets are biologically representative of real-world compound behavior in wet-lab experiments.
+
+ADMET endpoints are partially correlated and can be learned together via multi-task learning.
+
+Molecular structure alone determines ADMET profile without considering disease state, patient population, or drug–drug interactions in the current version.
+
+Label noise in public datasets can be alleviated by robust training strategies and ensemble learning.
 
 Something is still updating...
 
