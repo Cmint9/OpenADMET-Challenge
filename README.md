@@ -60,6 +60,12 @@ Coming from an applied mathematics background, stepping into AI-driven drug disc
 ## Negative Findings
 ### Faliure Models
 ### Limitations
+#### 1. Limited to small molecules
+
+    OpenADMET does not support peptides, antibodies, oligonucleotides, or large biologics.
+#### 2.Does not model dynamic biological processes
+
+The model predicts static properties but cannot simulate time-dependent pharmacokinetics or in vivo dynamics.
 
 ### Assumption
 SMILES-based molecular representation is sufficient for predicting ADMET properties. 3D conformation is not required for most in silico ADMET tasks.
