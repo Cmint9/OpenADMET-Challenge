@@ -62,10 +62,23 @@ Coming from an applied mathematics background, stepping into AI-driven drug disc
 ### Limitations
 #### 1. Limited to small molecules
 
-    OpenADMET does not support peptides, antibodies, oligonucleotides, or large biologics.
+OpenADMET does not support peptides, antibodies, oligonucleotides, or large biologics.
+
 #### 2.Does not model dynamic biological processes
 
 The model predicts static properties but cannot simulate time-dependent pharmacokinetics or in vivo dynamics.
+
+3. Dependent on data quality
+   Performance may degrade for novel, rare, or under-represented scaffolds not well-covered in training data.
+   
+4. Lack of organ-level or tissue-specific simulation
+   Current version provides holistic predictions without tissue-specific resolution (e.g., liver vs. kidney metabolism).
+   
+5. Does not include drug–drug interaction (DDI) or metabolism cascade prediction
+   These complex biological behaviors require external models or future extensions.
+   
+6. In silico predictions are not fully equivalent to clinical results
+   All outputs must be validated by in vitro and in vivo experiments before practical use.
 
 ### Assumption
 SMILES-based molecular representation is sufficient for predicting ADMET properties. 3D conformation is not required for most in silico ADMET tasks.
