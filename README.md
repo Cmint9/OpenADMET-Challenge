@@ -101,9 +101,15 @@ by robust training strategies and ensemble learning.
 #### 1. Cross-scaffold generalization: 
 The model generalizes to unseen molecular scaffolds by learning global physicochemical and topological rules.
 
-#### 3.
-#### 3.
-#### 3.
+#### 2. Multi-dataset robustness
+OpenADMET is trained on diverse, high-quality ADMET databases and maintains stable performance across external test sets.
+
+#### 3. Low-data adaptation
+The multi-task architecture enables reasonable performance even for tasks with limited labeled data.
+
+#### 4. Applicable to real-world drug-like molecules
+The model is validated on drug-like compounds rather than only idealized molecules, supporting real discovery scenarios.
+
 
 
 
