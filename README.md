@@ -81,15 +81,21 @@ These complex biological behaviors require external models or future extensions.
  All outputs must be validated by in vitro and in vivo experiments before practical use.
 
 ### Assumption
-SMILES-based molecular representation is sufficient for predicting ADMET properties. 3D conformation is not required for most in silico ADMET tasks.
 
-Public and curated datasets are biologically representative of real-world compound behavior in wet-lab experiments.
+#### 1. SMILES-based molecular representation is sufficient 
+for predicting ADMET properties. 3D conformation is not required for most in silico ADMET tasks.
 
-ADMET endpoints are partially correlated and can be learned together via multi-task learning.
+#### 2. Public and curated datasets are biologically representative 
+of real-world compound behavior in wet-lab experiments.
 
-Molecular structure alone determines ADMET profile without considering disease state, patient population, or drug–drug interactions in the current version.
+#### 3. ADMET endpoints are partially correlated 
+and can be learned together via multi-task learning.
 
-Label noise in public datasets can be alleviated by robust training strategies and ensemble learning.
+#### 4. Molecular structure alone determines ADMET profile 
+without considering disease state, patient population, or drug–drug interactions in the current version.
+
+#### 5. Label noise in public datasets can be alleviated 
+by robust training strategies and ensemble learning.
 
 ### Generalization / Generalizability (泛化能力)
 Cross-scaffold generalization: 
