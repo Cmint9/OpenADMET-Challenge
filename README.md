@@ -91,7 +91,10 @@ Molecular structure alone determines ADMET profile without considering disease s
 
 Label noise in public datasets can be alleviated by robust training strategies and ensemble learning.
 
-Something is still updating...
+### Generalization / Generalizability (泛化能力)
+Cross-scaffold generalization: 
+The model generalizes to unseen molecular scaffolds by learning global physicochemical and topological rules.
+
 
 
 
