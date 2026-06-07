@@ -98,8 +98,12 @@ without considering disease state, patient population, or drug–drug interactio
 by robust training strategies and ensemble learning.
 
 ### Generalization / Generalizability (泛化能力)
-Cross-scaffold generalization: 
+#### 1. Cross-scaffold generalization: 
 The model generalizes to unseen molecular scaffolds by learning global physicochemical and topological rules.
+
+#### 3.
+#### 3.
+#### 3.
 
 
 
