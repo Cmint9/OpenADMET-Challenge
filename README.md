@@ -122,7 +122,9 @@ The model learns lipophilicity, polarity, molecular size, flexibility, and elect
 For CYP450, hERG, and protein binding tasks, the model infers binding potential via structural motifs.
 
 
-
+#### 3. 
+#### 4. 
+#### 5。
 
 
 
