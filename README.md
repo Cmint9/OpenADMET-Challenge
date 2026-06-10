@@ -122,8 +122,11 @@ The model learns lipophilicity, polarity, molecular size, flexibility, and elect
 For CYP450, hERG, and protein binding tasks, the model infers binding potential via structural motifs.
 
 #### 3. Toxicity risk via functional groups
+The system recognizes toxicophores (toxic functional groups) linked to mutagenicity, hepatotoxicity, or cardiotoxicity.
+
 
 #### 4. Pharmacokinetic pattern recognition
+It identifies common substructures associated with high/low clearance, bioavailability, and half-life.
 
 #### 5. Multi-task biological consistency
 
