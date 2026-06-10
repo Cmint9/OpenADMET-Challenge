@@ -115,9 +115,11 @@ The model is validated on drug-like compounds rather than only idealized molecul
 Biological Mechanism
 OpenADMET captures biologically meaningful patterns during training, enabling interpretable ADMET predictions:
 
-#### 4.Molecular structure → physicochemical properties → ADMET behavior
+#### 1.Molecular structure → physicochemical properties → ADMET behavior
 The model learns lipophilicity, polarity, molecular size, flexibility, and electronic properties that drive absorption, distribution, and metabolism.
 
+#### 2.Binding affinity & enzyme interaction
+For CYP450, hERG, and protein binding tasks, the model infers binding potential via structural motifs.
 
 
 
