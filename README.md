@@ -121,10 +121,11 @@ The model learns lipophilicity, polarity, molecular size, flexibility, and elect
 #### 2.Binding affinity & enzyme interaction
 For CYP450, hERG, and protein binding tasks, the model infers binding potential via structural motifs.
 
+#### 3. Toxicity risk via functional groups
 
-#### 3. 
-#### 4. 
-#### 5。
+#### 4. Pharmacokinetic pattern recognition
+
+#### 5. Multi-task biological consistency
 
 
 
