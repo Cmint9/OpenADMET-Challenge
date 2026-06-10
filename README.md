@@ -124,12 +124,11 @@ For CYP450, hERG, and protein binding tasks, the model infers binding potential 
 #### 3. Toxicity risk via functional groups
 The system recognizes toxicophores (toxic functional groups) linked to mutagenicity, hepatotoxicity, or cardiotoxicity.
 
-
 #### 4. Pharmacokinetic pattern recognition
 It identifies common substructures associated with high/low clearance, bioavailability, and half-life.
 
 #### 5. Multi-task biological consistency
-
+Correlated ADME and toxicity endpoints are learned simultaneously to maintain biologically consistent outputs.
 
 
 
