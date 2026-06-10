@@ -112,6 +112,8 @@ The model is validated on drug-like compounds rather than only idealized molecul
 
 
 ###  Biological Mechanism（生物机理）
+Biological Mechanism
+OpenADMET captures biologically meaningful patterns during training, enabling interpretable ADMET predictions:
 
 
 
